@@ -1,0 +1,32 @@
+_repo: Local-Color_41297
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41297-h/images/htmlcover.jpg
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: 'Local color -- Field of honor -- The smart aleck -- Blacker than
+  sin -- The eyes of the world -- The Great Auk -- First Corinthians: Chap. XIII,
+  v. 4 -- Enter the villain -- Persona au gratin -- Smooth crossing.'
+title: Local Color
+url: http://www.gutenberg.org/ebooks/41297
